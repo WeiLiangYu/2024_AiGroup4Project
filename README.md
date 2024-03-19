@@ -11,6 +11,8 @@ Demo影片：<br>
     https://www.youtube.com/watch?v=Cl5B_yQ_LdI<br>
 報告影片：<br>
     https://youtu.be/48yMgySnZNQ<br>
+PPT：<br>
+    https://reurl.cc/zl9Rj6
 技術手冊(Notion)：尚有區域未編寫完成<br>
     https://www.notion.so/ae9181c9fd1a4dbeb92e50dff2f947f6<br>
 
